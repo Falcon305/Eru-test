@@ -1,0 +1,116 @@
+Professors:
+    {
+        "firstName": "Adam",
+        "lastName": "Smith",
+        "password": "coolcool",
+        "email": "adam-smith@um6p.ma"
+    }
+
+    {
+        "firstName": "Alexandra",
+        "lastName": "Jones",
+        "password": "coolcool",
+        "email": "alexandra@um6p.ma"
+    }
+
+Students:
+    {
+        "firstName": "Lana",
+        "lastName": "Rhodes",
+        "email": "r.lana@um6p.ma",
+        "password": "coolcool"
+    }
+
+    {
+        "firstName": "Barbara",
+        "lastName": "Palvin",
+        "email": "barbarapalvin@um6p.ma",
+        "password": "coolcool"
+    }
+
+Courses:
+
+    {
+        "title": "C for Complete noobs",
+        "description": "Learn C programming",
+        "difficulty": "beginner",
+        "duration": 18
+    }
+
+    {
+        "title": "Data structures and algorithms",
+        "description": "Take your coding skills to the next level by learning data structures and algorithms",
+        "difficulty": "intermediate",
+        "duration": 12
+    }
+----------------------------------------------------------------------------------------------------------
+    {
+        "title": "Digital Marketing 101",
+        "description": "Learn the basics of digital marketing",
+        "difficulty": "beginner",
+        "duration": 12,
+        "image": "/../uploads/dm.jpg"
+    }
+
+      {
+        "title": "Forex: Advanced market analysis",
+        "description": "Take your trading skills to the next level by learning and applying the latest analysis models",
+        "difficulty": "advanced",
+        "duration": 24,
+        "image": "/../uploads/forex.jpg"
+    }
+      {
+        "title": "Algebra for dummies",
+        "description": "This course is designed to emphasize the study of multiple representations of linear and non-linear functions.  It includes mathematical concepts for working with rational numbers, various expressions, analyzing and solving linear equations & inequalities, data analysis, probability, statistics, and polynomials.  Students will use hands-on materials and calculators when needed in solving problems where the algebra concepts are applied.  Students who complete Algebra I should take Geometry next.",
+        "difficulty": "beginner",
+        "duration": 24,
+        "image": "/../uploads/ag.jpg"
+    }
+      {
+        "title": "Startup Funding",
+        "description": "Get your startup the funding it deserves",
+        "difficulty": "intermediate",
+        "duration": 6,
+        "image": "/../uploads/st.png"
+    }
+      {
+        "title": "Communication for tech people",
+        "description": "Tierd of being left out of the conversation at work ?? Then this course is for you.",
+        "difficulty": "beginner",
+        "duration": 14,
+        "image": "/../uploads/cm.jpg"
+    }
+      {
+        "title": "Applied Machine Learning",
+        "description": "Become a better ML enginner",
+        "difficulty": "advanced",
+        "duration": 24,
+        "image": "/../uploads/ml.jpg"
+    }
+      {
+        "title": "BlockChain",
+        "description": "It's finally time to understand what BlockChain really is !!",
+        "difficulty": "advanced",
+        "duration": 24,
+        "image": "/../uploads/bcjpg.jpg"
+    }
+
+Syllabus:
+
+    {
+        "title": "Hello world",
+        "description": "Get to know the basics of c langauge",
+        "courseID": "60213a4f74549a1c433c7643"
+    }
+
+    {
+        "title": "Stack data structure",
+        "description": "Learn how to work with stacks,
+        "courseID": "60213aa874549a1c433c7644"
+    }
+
+    {
+        "title": "BFS algorithm",
+        "description": "Learn the basics of graph triversal using BFS",
+        "courseID": "60213aa874549a1c433c7644"
+    }
