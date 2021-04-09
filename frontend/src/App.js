@@ -36,7 +36,7 @@ function App() {
                 <Route path={`${process.env.PUBLIC_URL + "/about"}`} component={About} />
                 <Route path={`${process.env.PUBLIC_URL + "/course-grid"}`} component={CourseGrid} exact/>
                 <Route path={`${process.env.PUBLIC_URL + "/course-grid/search/:keyword"}`} component={CourseGrid} exact/>
-                <Route path={`${process.env.PUBLIC_URL + "/course/:id"}`} component={CourseDetails} exact />
+                <Route path={`${process.env.PUBLIC_URL + "/course/:id"}`} component={CourseDetails}  />
                 <Route path={`${process.env.PUBLIC_URL + "/instructor"}`} component={Instructor} />
                 <Route path={`${process.env.PUBLIC_URL + "/instructor-details"}`} component={InstructorDetails} />
                 <Route path={`${process.env.PUBLIC_URL + "/gallery"}`} component={Gallery} />
